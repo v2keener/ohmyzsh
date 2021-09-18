@@ -2,7 +2,7 @@
 custom/
 
 # temp files directories
-plugins/
+plugins/*
 tools/
 cache/
 log/
