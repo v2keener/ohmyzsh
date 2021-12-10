@@ -2,8 +2,6 @@
 custom/
 
 # temp files directories
-plugins/*
-tools/
 cache/
 log/
 *.swp
