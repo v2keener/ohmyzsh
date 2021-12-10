@@ -55,7 +55,7 @@ done
 # Set git-config values known to fix git errors
 # Line endings (#4069)
 git config core.eol lf
-git config core.autocrlf false
+git config core.autocrlf input
 # zeroPaddedFilemode fsck errors (#4963)
 git config fsck.zeroPaddedFilemode ignore
 git config fetch.fsck.zeroPaddedFilemode ignore
