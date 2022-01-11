@@ -1,8 +1,10 @@
 # custom files
 custom/
+.git-v2keener/
 
 # temp files directories
 cache/
 log/
 *.swp
 .DS_Store
+

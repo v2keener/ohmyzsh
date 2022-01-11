@@ -34,7 +34,7 @@ function current_epoch() {
 
 function is_update_available() {
   local branch
-  branch=${"$(cd "$ZSH"; git config --local oh-my-zsh.branch)":-master}
+  branch=${"$(cd "$ZSH"; git config --local oh-my-zsh.branch)":-main}
 
   local remote remote_url remote_repo
   remote=${"$(cd "$ZSH"; git config --local oh-my-zsh.remote)":-origin}
