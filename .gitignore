@@ -1,5 +1,5 @@
-# custom files
-custom/
+# (include) custom files
+#custom/ # keep uncommented to include
 .git-v2keener/
 
 # temp files directories
