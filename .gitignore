@@ -7,4 +7,6 @@ cache/
 log/
 *.swp
 .DS_Store
-
+.editorconfig
+.github/**
+.gitpod**
